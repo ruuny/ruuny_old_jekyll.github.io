@@ -4,6 +4,11 @@ title:  "Welcome to Massively: The Jekyll Theme!"
 date:   2017-10-31
 excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
 image: "/images/pic02.jpg"
+tag: "33"
+sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
 ---
 
 ## How to Use This Theme
