@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Ruuny's
+bio:                'Personal Progress Port'
+description:        "Personal Progress Port"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ruuny.github.io" # the base hostname & protocol for your site
@@ -39,12 +39,12 @@ analytics-id:       "default"
 twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             https://github.com/ruuny/ruuny/github.io
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Korea, South
+phone:              010-XXXX-XXXX
+email:              enrunny@gmail.com
 
 # Gems
 gems:
